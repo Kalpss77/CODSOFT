@@ -7,14 +7,14 @@ body{
         border:1px solid:black;
         border-radius:20px;
       }
- .calculate{
+.calculate{
         background-color:pink;
         border-radius:10px;
         width:200px;
         padding:50px;
         border-style:dashed;
       }
-      .display{
+.display{
         background-color:grey;
         color:white;
         padding:10px;
@@ -26,34 +26,34 @@ body{
         width:170px;
         overflow:hidden;
       }
-      .button{
+.button{
         gap:20px;
       }
-      button{
+button{
         font-size:15px;
         padding:15px;
         border-radius:20px;
         color:#fff;
         background-color:#333;
       }
-      button:hover{
+button:hover{
           background-color:#444;
       }
-      .operator{
+.operator{
         background-color:#ff9500;   
       }
-      .operator:hover{
+.operator:hover{
           background-color:#e08900;
       }
-      .equal{
+.equal{
           background-color:#34c759;
       }
-      .equal:hover{
+.equal:hover{
           background-color:#28a745;
       }
-      .clear{
+.clear{
           background-color:#ff3b30;
       }
-      .clear:hover{
+.clear:hover{
           background-color:#e02e25;
       }
