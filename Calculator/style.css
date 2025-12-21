@@ -8,11 +8,11 @@ body{
         border-radius:20px;
       }
 .calculate{
-        background-color:pink;
+        background-color:blue;
         border-radius:10px;
         width:200px;
         padding:50px;
-        border-style:dashed;
+        border-style:solid;
       }
 .display{
         background-color:grey;
